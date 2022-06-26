@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a personal project comnbining my sleep, exercise, and glucose data
+🌱 I’m currently learning advanced machine learning with Python
+👯 I’m looking to collaborate on data analysis and exploration projects
+🤔 I’m looking for help with learning the business side of data science
+💬 Ask me about my projects or what I do in my spare time
+📫 How to reach me: btesileanu@gmail.com OR http://tesileanu.github.io
+✨ Fun Fact: I was born in Romania and moved to Florida when I was 10
+
 <!--
 **tesileanu/tesileanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
