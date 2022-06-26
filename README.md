@@ -8,6 +8,9 @@
 📫 How to reach me: btesileanu@gmail.com OR http://tesileanu.github.io  
 ✨ Fun Fact: I was born in Romania and moved to Florida when I was 10.  
 
+Projects I am most proud of:
+[Data Analysis](https://github.com/tesileanu/motorcyle_dataset_analysis)
+
 <!--
 **tesileanu/tesileanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
