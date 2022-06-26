@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋  
 
-🔭 I’m currently working on a personal project comnbining my sleep, exercise, and glucose data
+🔭 I’m currently working on a personal project comnbining my sleep, exercise, and glucose data  
 🌱 I’m currently learning advanced machine learning with Python
 👯 I’m looking to collaborate on data analysis and exploration projects
 🤔 I’m looking for help with learning the business side of data science
