@@ -9,7 +9,7 @@
 ✨ Fun Fact: I was born in Romania and moved to Florida when I was 10.  
 
 📽 Projects I am most proud of:  
-- [Motorcycle Company Data Analysis](https://github.com/tesileanu/motorcyle_dataset_analysis)  
+- [Motorcycle Company Data Analysis](https://github.com/tesileanu/motorcyle_dataset_analysis) - Data cleaning, EDA, visualizations
 - [Spanish Wine Machine Learning](https://github.com/tesileanu/spanish_wine)  
 - [Student Management Database](https://github.com/tesileanu/student_database)  
 
